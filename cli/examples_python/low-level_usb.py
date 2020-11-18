@@ -117,7 +117,7 @@ additional motion commands.
 
 import sys
 
-from pyaxidraw import axidraw
+from axidrawinternal import axidraw
 
 ad = axidraw.AxiDraw() # Initialize class
 
